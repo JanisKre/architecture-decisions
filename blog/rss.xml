@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Factory-X Contributions Blog</title>
-        <link>https://janiskretschmann.github.io/architecture-decisions/blog</link>
+        <link>https://janiskre.github.io/architecture-decisions/blog</link>
         <description>Factory-X Contributions Blog</description>
         <lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Factory-X Architecture Decision Records in Docusaurus]]></title>
-            <link>https://janiskretschmann.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</link>
-            <guid>https://janiskretschmann.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</guid>
+            <link>https://janiskre.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</link>
+            <guid>https://janiskre.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</guid>
             <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[I’m pleased to announce that Factory‑X’s Architecture Decision Records (ADRs) are now published on a static website built with the Docusaurus framework. The ADRs are pulled directly from the repository’s .md documents and presented in a clear, searchable format. To make navigation easier, entries are organized according to the different configurations of the MX port, so you can quickly find decisions relevant to a particular setup.]]></description>
             <content:encoded><![CDATA[<p>I’m pleased to announce that Factory‑X’s Architecture Decision Records (ADRs) are now published on a static website built with the Docusaurus framework. The ADRs are pulled directly from the repository’s .md documents and presented in a clear, searchable format. To make navigation easier, entries are organized according to the different configurations of the MX port, so you can quickly find decisions relevant to a particular setup.</p>

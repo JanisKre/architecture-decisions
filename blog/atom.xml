@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://janiskretschmann.github.io/architecture-decisions/blog</id>
+    <id>https://janiskre.github.io/architecture-decisions/blog</id>
     <title>Factory-X Contributions Blog</title>
     <updated>2025-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://janiskretschmann.github.io/architecture-decisions/blog"/>
+    <link rel="alternate" href="https://janiskre.github.io/architecture-decisions/blog"/>
     <subtitle>Factory-X Contributions Blog</subtitle>
-    <icon>https://janiskretschmann.github.io/architecture-decisions/https://factory-x.org/wp-content/uploads/factory-x-logo.svg</icon>
+    <icon>https://janiskre.github.io/architecture-decisions/https://factory-x.org/wp-content/uploads/factory-x-logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[Factory-X Architecture Decision Records in Docusaurus]]></title>
-        <id>https://janiskretschmann.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</id>
-        <link href="https://janiskretschmann.github.io/architecture-decisions/blog/FX-ADR in Docusaurus"/>
+        <id>https://janiskre.github.io/architecture-decisions/blog/FX-ADR in Docusaurus</id>
+        <link href="https://janiskre.github.io/architecture-decisions/blog/FX-ADR in Docusaurus"/>
         <updated>2025-11-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I’m pleased to announce that Factory‑X’s Architecture Decision Records (ADRs) are now published on a static website built with the Docusaurus framework. The ADRs are pulled directly from the repository’s .md documents and presented in a clear, searchable format. To make navigation easier, entries are organized according to the different configurations of the MX port, so you can quickly find decisions relevant to a particular setup.]]></summary>
         <content type="html"><![CDATA[<p>I’m pleased to announce that Factory‑X’s Architecture Decision Records (ADRs) are now published on a static website built with the Docusaurus framework. The ADRs are pulled directly from the repository’s .md documents and presented in a clear, searchable format. To make navigation easier, entries are organized according to the different configurations of the MX port, so you can quickly find decisions relevant to a particular setup.</p>
