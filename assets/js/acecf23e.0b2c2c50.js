@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docs=globalThis.webpackChunkmy_docs||[]).push([[903],{9531:s=>{s.exports=JSON.parse('{"blogBasePath":"/architecture-decisions/blog","blogTitle":"Blog","authorsListPath":"/architecture-decisions/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docs=globalThis.webpackChunkmy_docs||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Factory-X Architecture Decision Records in Docusaurus","permalink":"/architecture-decisions/blog/FX-ADR in Docusaurus","unlisted":false,"date":"2025-11-05T00:00:00.000Z"}]}')}}]);
