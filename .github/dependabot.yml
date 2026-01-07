@@ -7,25 +7,22 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: npm
+    directory: /
     schedule:
-      interval: "daily"
+      interval: daily
     groups:
       react-stack:
         patterns:
-          - "react"
-          - "react-dom"
+          - react
+          - react-dom
           - "@types/react"
           - "@types/react-dom"
-        applies-to: "version-updates"
+        applies-to: version-updates
 
       all-minor-patch:
         patterns:
           - "*"
-        applies-to: "version-updates"
-               update-types:
-          - "minor"
-
-
-
+        applies-to: version-updates
+        update-types:
+          - minor
